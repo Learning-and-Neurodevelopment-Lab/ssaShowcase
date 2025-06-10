@@ -2,4 +2,4 @@
 
 View the SSA training dataset: https://app.box.com/s/32jhbdm11gf0anw62vxwt5yiw6urpzm9
 
-View the SSA poster: https://github.com/muppetAnon/ssa-cvpr2025/blob/8c9f6677d44233acd0f9719596b77c246490c7d1/ssa_CVPR-2025_poster.pdf![image](https://github.com/user-attachments/assets/acde536f-945b-4fa3-aa8b-3537d606f2ed)
+View the SSA poster: https://github.com/muppetAnon/ssa-cvpr2025/blob/8c9f6677d44233acd0f9719596b77c246490c7d1/ssa_CVPR-2025_poster.pdf
